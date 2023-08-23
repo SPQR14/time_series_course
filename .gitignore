@@ -212,3 +212,5 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+material_curso/curso-series-temporales
